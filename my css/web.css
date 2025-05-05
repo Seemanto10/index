@@ -1,0 +1,32 @@
+h2{
+    background-image: url('../lionel-messi-football-barcelona-hd-wallpaper-preview.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* text-align: center; */
+}
+#ok{
+    border: 25px solid blueviolet;
+    height: 200px;
+    background-color: chocolate;
+    color: bisque;
+    border-radius: 5px 10px;
+    margin: 5px;
+    box-shadow: 10px 10px black;
+    padding: 5px;
+    
+}
+.fine{
+    border: 25px solid blue;
+    margin: 10px ;
+    border-radius: 10px 5px;
+    box-shadow: 10px 10px black;
+    background-image: url('../MESSI.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    /* background-size: cover; */
+    background-size: contain;
+    /* text-wrap: 100px; */
+    padding: auto;
+    background-color: blue;
+}

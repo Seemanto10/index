@@ -1,0 +1,23 @@
+h2{
+    background-color: aqua;
+    text-align: center;
+}
+.poki{
+    border: 10px solid red;
+
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px blue;
+}
+.roki{
+    /* display: none; */
+}
+.om{
+    height: 400px;
+    color: burlywood;
+    /* background-color: bisque; */
+    background-image: url('../pic/lionel-messi-football-barcelona-hd-wallpaper-preview.jpg');
+    /* background-repeat: x; */
+    background-repeat: repeat-y;
+    background-size: 200px;
+}
